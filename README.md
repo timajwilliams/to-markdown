@@ -1,10 +1,12 @@
 # To Markdown Chrome Extension
 
-A Chrome extension forwards the current page to the JINA Reader API
+A Chrome extension forwards the current page to the [JINA Reader API](https://jina.ai/reader/) and displays the result in markdown format.
+
+Thank You to [Jina](https://jina.ai/) for providing such a helpful API!
 
 ## Features
 
-- Forward the current page to the JINA Reader API
+- Forward the current page to the [JINA Reader API](https://jina.ai/reader/)
 - Display the current page in a new tab, but in markdown format
 
 ## Installation
